@@ -9,5 +9,9 @@ public class FirstTest {
         System.out.println("我是你爸爸");
         System.out.println("我是你爸爸");
         System.out.println("我是你爸爸");
+        System.out.println("我是你爸爸");
+        System.out.println("我是你爸爸");
+        System.out.println("我是你爸爸");
+        System.out.println("我是你爸爸");
     }
 }
